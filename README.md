@@ -8,4 +8,8 @@ https://www.optimizesmart.com/blog/
 
 ## Explorations
 
-https://momenticmarketing.com/blog/track-a-specific-page-in-ga4#create-an-exploration (show visits to s specific page)
+Show visits to a specific page
+https://momenticmarketing.com/blog/track-a-specific-page-in-ga4#create-an-exploration
+
+Ecommerce conversion rate
+https://www.optimizesmart.com/ga4-ecommerce-conversion-rate-how-to-find-and-use-it/
