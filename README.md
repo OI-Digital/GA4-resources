@@ -4,7 +4,7 @@ A loose collection of links to sites that detail how to do various things in GA4
 
 * [General Resources](https://github.com/OI-Digital/GA4-resources/blob/main/README.md#general)
 * [Explorations](https://github.com/OI-Digital/GA4-resources/blob/main/README.md#explorations)
-* [WordPress Plugins](https://github.com/OI-Digital/GA4-resources/blob/main/README.md#plugins)
+* [WordPress Plugins](https://github.com/OI-Digital/GA4-resources/blob/main/README.md#wordpress-plugins)
 
 ## General
 
