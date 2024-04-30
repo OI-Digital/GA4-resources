@@ -22,6 +22,8 @@ https://www.optimizesmart.com/blog/
 
 ## Conversion Tracking
 
+[Track file downloads](https://www.analyticsmania.com/post/track-file-downloads-with-google-analytics-4/)
+
 ## WordPress Plugins
 
 [AFL UTM Tracker](https://www.appfromlab.com/)
